@@ -106,7 +106,7 @@ module.exports = function (ctx) {
       }
     },
     cordova: {
-    id: 'edu.nemesis.mec.cuny.mec-app-dev mec-app-dev'
+      //id: ''
     },
     electron: {
       // bundler: 'builder', // or 'packager'
