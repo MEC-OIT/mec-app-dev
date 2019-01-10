@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "The medgar evers college app testing and development space",
   "productName": "Medgar Evers College APP Development Space",
-  "cordovaId": "edu.nemesis.mecapp mecapp",
+  "cordovaId": "com.nemesis.mecapp Mecapp2",
   "author": "Vezro <vanking.w@gmail.com>",
   "private": true,
   "scripts": {
